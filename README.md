@@ -30,15 +30,15 @@ _See [Introduction of B-Tree](https://www.geeksforgeeks.org/introduction-of-b-tr
 
 ### Searching
 
-<img src="https://i.imgur.com/fUJs4QX.gif" title="BTree Searching" alt="Missing Gif">
+<img src="https://i.imgur.com/fUJs4QX.gif" title="B-Tree Searching" alt="Missing Gif">
 
 ### Insertion
 
-<img src="https://i.imgur.com/3zmBmIB.gif" title="BTree Insertion" alt="Missing Gif">
+<img src="https://i.imgur.com/3zmBmIB.gif" title="B-Tree Insertion" alt="Missing Gif">
 
 ### Deletion
 
-<img src="https://i.imgur.com/leFi6w3.gif" title="BTree Deletion" alt="Missing Gif">
+<img src="https://i.imgur.com/leFi6w3.gif" title="B-Tree Deletion" alt="Missing Gif">
 
 ## Contact
 Full Our OOP Project Link: [https://github.com/tatuan19/oop-project](https://github.com/tatuan19/oop-project)
