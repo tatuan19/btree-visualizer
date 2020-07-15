@@ -26,7 +26,7 @@ This is 1 of 3 contents in my OOP project when I was in my third year of univers
 
 ## Usage
 
-_See [Introduction of B-Tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/) for more information._
+_See [Introduction of B-Tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/) for more information about B-Tree._
 
 ### Searching
 
@@ -41,9 +41,9 @@ _See [Introduction of B-Tree](https://www.geeksforgeeks.org/introduction-of-b-tr
 <img src="https://i.imgur.com/leFi6w3.gif" title="BTree Deletion" alt="Missing Gif">
 
 ## Contact
-Full OOP Project Link: [https://github.com/tatuan19/oop-project](https://github.com/tatuan19/oop-project)
+Full Our OOP Project Link: [https://github.com/tatuan19/oop-project](https://github.com/tatuan19/oop-project)
 
-## TODO
+## Todo
 
 * Fix the tree's width when there are too many number inserted into the tree
 * Make the animation for insert/delete if possible
