@@ -5,8 +5,8 @@
 * [Getting Started](#getting-started)
 * [Usage](#usage)
   * [Searching](#searching)
-  * [Insertion](#insert)
-  * [Deletion](#delete)
+  * [Insertion](#insertion)
+  * [Deletion](#deletion)
 * [Contact](#contact)
 * [Todo](#todo)
 
