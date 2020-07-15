@@ -4,7 +4,7 @@
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
 * [Usage](#usage)
-  * [Searching](#search)
+  * [Searching](#searching)
   * [Insertion](#insert)
   * [Deletion](#delete)
 * [Contact](#contact)
@@ -29,7 +29,16 @@ This is 1 of 3 contents in my OOP project when I was in my third year of univers
 _See [Introduction of B-Tree](https://www.geeksforgeeks.org/introduction-of-b-tree-2/) for more information._
 
 ### Searching
-<img src="https://i.imgur.com/fUJs4QX.gif">
+
+<img src="https://i.imgur.com/fUJs4QX.gif" title="BTree Searching" alt="Missing Gif">
+
+### Insertion
+
+<img src="https://i.imgur.com/3zmBmIB.gif" title="BTree Insertion" alt="Missing Gif">
+
+### Deletion
+
+<img src="https://i.imgur.com/leFi6w3.gif" title="BTree Deletion" alt="Missing Gif">
 
 ## Contact
 Full OOP Project Link: [https://github.com/tatuan19/oop-project](https://github.com/tatuan19/oop-project)
